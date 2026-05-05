@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Today Road
 
-# Run and deploy your AI Studio app
+A modern grocery store web app built with React + Vite.
 
-This contains everything you need to run your app locally.
+## Install
 
-View your app in AI Studio: https://ai.studio/apps/98c3a19c-901e-4b53-8309-f89747d01704
+npm install
 
-## Run Locally
+## Run
 
-**Prerequisites:**  Node.js
+npm run dev
 
+## Build
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+npm run build
